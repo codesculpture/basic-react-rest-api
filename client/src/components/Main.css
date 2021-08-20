@@ -1,0 +1,39 @@
+.title{
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 100px;
+}
+.search-values{
+    font-size: 20px;
+}
+.container{
+
+    text-align: center;
+    display: block;
+}
+.inp{
+    position: relative;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 2%;
+    padding-right: 2%;
+}
+.srch-btn{
+    position: relative;
+    left: 2%;
+ }
+.table{
+    position: relative;
+    align-items: center;
+    width: 60%;
+    justify-content: center;
+    left: 20%;
+
+}
+.error{
+    position:relative;
+    color: red;
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+}
